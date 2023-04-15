@@ -2,6 +2,8 @@
 
 ![shopping cat](screenshots/main.jpg)
 
+photo credits: [unsplash](https://unsplash.com/)
+
 ## Description
 
 - This is a practice project made by Eddie Kao (eddie@5xcampus.com)
@@ -20,5 +22,3 @@
 - Make sure `yarn` is installed.
 - Run `yarn install` to install all packages.
 - Run `yarn run dev` or `yarn dev` to run a development server on your local machine.
-
-photo credits: [unsplash](https://unsplash.com/)
